@@ -1,4 +1,5 @@
-[2019-6-20 12:55:15] layer "App.google копия": Expected end of input but "\u043A" found.
-[2019-6-20 12:55:15] layer "App.google копия 3": Expected end of input but "\u043A" found.
-[2019-6-20 12:55:15] layer "App.google копия 3 copy": Expected end of input but "\u043A" found.
-[2019-6-20 12:55:15] layer "App.google копия 3 copy": Expected end of input but "\u043A" found.
+[2019-6-20 17:08:37] layer "bgi3.jpg": Duplicate path: bgi3.jpg
+[2019-6-20 17:08:37] layer "App.google копия": Expected end of input but "\u043A" found.
+[2019-6-20 17:08:37] layer "App.google копия 3": Expected end of input but "\u043A" found.
+[2019-6-20 17:08:37] layer "App.google копия 3 copy": Expected end of input but "\u043A" found.
+[2019-6-20 17:08:37] layer "App.google копия 3 copy": Expected end of input but "\u043A" found.
